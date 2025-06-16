@@ -15,9 +15,11 @@
 - Decision Made:
 - Risks Identified:
 
-    ## Acion Items
+    ## Action Items
 
     | Task | Owner | Due Date |
     | ----- | ----- | --------|
     | Do somehing | Alice | June 6
     | Review Y | Bob | June 7 |
+
+    DDition
